@@ -41,6 +41,26 @@ Yêu cầu: macOS 12 Monterey trở lên, còn trống 2 GB.
 Phần mềm không tự cập nhật. Khi có bản mới, tải bộ cài mới ở trang trên và cài đè; dữ liệu cũ được giữ nguyên.
 Nên sao lưu dữ liệu trong phần mềm trước khi cài đè.
 
+## Ủng hộ tác giả
+
+Phần mềm miễn phí, không cần kích hoạt. Nếu thấy hữu ích, thầy cô có thể ủng hộ tác giả tùy tâm —
+hoàn toàn tự nguyện và không ảnh hưởng đến bất kỳ chức năng nào.
+
+<img src="ung-ho-mb-bank.png" alt="Mã QR ủng hộ tác giả qua MB Bank, số tài khoản 0906138215" width="377">
+
+**MB Bank · 0906138215** — tác giả Võ Hồng Tâm.
+
+## Nguồn nội dung
+
+Phần mềm dùng cho mục đích giảng dạy, không kinh doanh. Nội dung bài giảng trích từ giáo trình và sách giáo khoa;
+bản quyền thuộc cơ quan, nhà xuất bản phát hành:
+
+- Tài liệu dạy và học Giáo dục quốc phòng và an ninh trình độ trung cấp, trình độ cao đẳng.
+- SGK Giáo dục quốc phòng và an ninh 10, 11, 12 (bộ Kết nối tri thức với cuộc sống), NXB Giáo dục Việt Nam.
+
+Khi giảng, mỗi trang chiếu đều ghi nguồn ở chân trang. Chữ của SGK lớp 11, 12 được máy đọc từ bản scan nên
+có thể còn lỗi: thầy cô đối chiếu với sách in khi cần.
+
 ## An toàn
 
 Chỉ tải bộ cài từ trang này. Không cài bản do người lạ gửi qua tin nhắn hoặc mạng xã hội.
