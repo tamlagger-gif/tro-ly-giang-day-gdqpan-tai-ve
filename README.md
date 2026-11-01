@@ -1,6 +1,9 @@
-# Trợ lý Giảng dạy GDQP&AN — Tải bộ cài
+# Quân Sư GDQP — Tải bộ cài
 
-Phần mềm hỗ trợ giáo viên Giáo dục Quốc phòng và An ninh: hồ sơ, bài giảng, trình chiếu và lớp học số.
+<img src="logo-quan-su-gdqp.png" alt="Logo Quân Sư GDQP: quạt lông vũ" width="96">
+
+Quân sư của thầy cô Giáo dục Quốc phòng và An ninh: hồ sơ, bài giảng, trình chiếu và lớp học số.
+Trước đây phần mềm tên là "Trợ lý Giảng dạy GDQP&AN".
 Miễn phí, không cần kích hoạt. Kho này chỉ chứa bộ cài; dữ liệu của thầy cô luôn lưu trên máy của mình.
 
 ## 👉 [Bấm vào đây để tải bản mới nhất](../../releases/latest)
@@ -25,13 +28,14 @@ Yêu cầu: Windows 10 64-bit trở lên, RAM 4 GB, còn trống 1 GB.
 ## Cài trên máy Mac
 
 1. Tải đúng tệp `.dmg` theo chip của máy rồi nháy đúp để mở.
-2. Kéo biểu tượng **Tro Ly Giang Day GDQPAN** vào thư mục **Applications**.
+2. Kéo biểu tượng **Quan Su GDQP** vào thư mục **Applications**.
+   Máy đã có bản cũ tên **Tro Ly Giang Day GDQPAN**: kéo bản cũ vào Thùng rác (dữ liệu vẫn giữ nguyên).
 3. Mở ứng dụng từ Launchpad. Lần đầu macOS báo không mở được: vào
    **Cài đặt hệ thống → Quyền riêng tư & Bảo mật**, kéo xuống bấm **Vẫn mở** (Open Anyway), nhập mật khẩu máy.
 4. Nếu macOS báo ứng dụng "đã bị hỏng", mở **Terminal** và chạy:
 
    ```
-   xattr -dr com.apple.quarantine "/Applications/Tro Ly Giang Day GDQPAN.app"
+   xattr -dr com.apple.quarantine "/Applications/Quan Su GDQP.app"
    ```
 
 Yêu cầu: macOS 12 Monterey trở lên, còn trống 2 GB.
